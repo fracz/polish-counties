@@ -1,0 +1,2740 @@
+{
+  "Aleksandrowski": [
+    "Inowrocławski",
+    "Lipnowski",
+    "Radziejowski",
+    "Toruński",
+    "Włocławski"
+  ],
+  "Augustowski": [
+    "Ełcki",
+    "Grajewski",
+    "Moniecki",
+    "Sejneński",
+    "Sokólski",
+    "Suwalski"
+  ],
+  "Bartoszycki": [
+    "Braniewski",
+    "Kętrzyński",
+    "Lidzbarski",
+    "Olsztyński"
+  ],
+  "Bełchatowski": [
+    "Łaski",
+    "Pabianicki",
+    "Pajęczański",
+    "Piotrkowski",
+    "Radomszczański",
+    "Wieluński"
+  ],
+  "Będziński": [
+    "Dąbrowa Górnicza",
+    "Katowice",
+    "Myszkowski",
+    "Piekary Śląskie",
+    "Siemianowice Śląskie",
+    "Sosnowiec",
+    "Tarnogórski",
+    "Zawierciański"
+  ],
+  "Bialski": [
+    "Biała Podlaska",
+    "Łosicki",
+    "Łukowski",
+    "Parczewski",
+    "Radzyński",
+    "Siemiatycki",
+    "Włodawski"
+  ],
+  "Biała Podlaska": [
+    "Bialski"
+  ],
+  "Białobrzeski": [
+    "Grójecki",
+    "Kozienicki",
+    "Przysuski",
+    "Radomski"
+  ],
+  "Białogardzki": [
+    "Kołobrzeski",
+    "Koszaliński",
+    "Szczecinecki",
+    "Świdwiński"
+  ],
+  "Białostocki": [
+    "Białystok",
+    "Bielski (Podlaskie)",
+    "Hajnowski",
+    "Łomżyński",
+    "Moniecki",
+    "Sokólski",
+    "Wysokomazowiecki",
+    "Zambrowski"
+  ],
+  "Białystok": [
+    "Białostocki"
+  ],
+  "Bielski (Podlaskie)": [
+    "Białostocki",
+    "Hajnowski",
+    "Siemiatycki",
+    "Wysokomazowiecki"
+  ],
+  "Bielski (Śląskie)": [
+    "Bielsko-Biała",
+    "Cieszyński",
+    "Oświęcimski",
+    "Pszczyński",
+    "Wadowicki",
+    "Żywiecki"
+  ],
+  "Bielsko-Biała": [
+    "Bielski (Śląskie)",
+    "Cieszyński"
+  ],
+  "Bieruńsko-Lędziński": [
+    "Jaworzno",
+    "Katowice",
+    "Mysłowice",
+    "Oświęcimski",
+    "Pszczyński",
+    "Tychy"
+  ],
+  "Bieszczadzki": [
+    "Leski",
+    "Przemyski",
+    "Sanocki"
+  ],
+  "Biłgorajski": [
+    "Janowski",
+    "Krasnostawski",
+    "Leżajski",
+    "Lubaczowski",
+    "Lubelski",
+    "Niżański",
+    "Przeworski",
+    "Tomaszowski (Lubelskie)",
+    "Zamojski"
+  ],
+  "Bocheński": [
+    "Brzeski (Małopolskie)",
+    "Limanowski",
+    "Myślenicki",
+    "Proszowicki",
+    "Wielicki"
+  ],
+  "Bolesławiecki": [
+    "Legnicki",
+    "Lubański",
+    "Lwówecki",
+    "Polkowicki",
+    "Zgorzelecki",
+    "Złotoryjski",
+    "Żagański"
+  ],
+  "Braniewski": [
+    "Bartoszycki",
+    "Elbląski",
+    "Lidzbarski",
+    "Nowodworski (Pomorskie)"
+  ],
+  "Brodnicki": [
+    "Działdowski",
+    "Golubsko-Dobrzyński",
+    "Grudziądzki",
+    "Nowomiejski",
+    "Rypiński",
+    "Wąbrzeski",
+    "Żuromiński"
+  ],
+  "Brzeski (Małopolskie)": [
+    "Bocheński",
+    "Limanowski",
+    "Nowosądecki",
+    "Proszowicki",
+    "Tarnowski"
+  ],
+  "Brzeski (Opolskie)": [
+    "Namysłowski",
+    "Nyski",
+    "Oławski",
+    "Opolski (Opolskie)",
+    "Strzeliński"
+  ],
+  "Brzeziński": [
+    "Łowicki",
+    "Łódzki Wschodni",
+    "Skierniewicki",
+    "Tomaszowski (Łódzkie)",
+    "Zgierski"
+  ],
+  "Brzozowski": [
+    "Krośnieński (Podkarpackie)",
+    "Przemyski",
+    "Rzeszowski",
+    "Sanocki",
+    "Strzyżowski"
+  ],
+  "Buski": [
+    "Dąbrowski",
+    "Kazimierski",
+    "Kielecki",
+    "Pińczowski",
+    "Staszowski"
+  ],
+  "Bydgoski": [
+    "Bydgoszcz",
+    "Chełmiński",
+    "Inowrocławski",
+    "Nakielski",
+    "Sępoleński",
+    "Świecki",
+    "Toruński",
+    "Tucholski",
+    "Żniński"
+  ],
+  "Bydgoszcz": [
+    "Bydgoski",
+    "Toruński"
+  ],
+  "Bytom": [
+    "Chorzów",
+    "Piekary Śląskie",
+    "Ruda Śląska",
+    "Świętochłowice",
+    "Tarnogórski",
+    "Zabrze"
+  ],
+  "Bytowski": [
+    "Chojnicki",
+    "Człuchowski",
+    "Koszaliński",
+    "Kościerski",
+    "Lęborski",
+    "Słupski",
+    "Szczecinecki"
+  ],
+  "Chełm": [
+    "Chełmski"
+  ],
+  "Chełmiński": [
+    "Bydgoski",
+    "Grudziądzki",
+    "Świecki",
+    "Toruński",
+    "Wąbrzeski"
+  ],
+  "Chełmski": [
+    "Chełm",
+    "Hrubieszowski",
+    "Krasnostawski",
+    "Łęczyński",
+    "Świdnicki (Lubelskie)",
+    "Włodawski",
+    "Zamojski"
+  ],
+  "Chodzieski": [
+    "Czarnkowsko-Trzcianecki",
+    "Obornicki",
+    "Pilski",
+    "Wągrowiecki"
+  ],
+  "Chojnicki": [
+    "Bytowski",
+    "Człuchowski",
+    "Kościerski",
+    "Sępoleński",
+    "Starogardzki",
+    "Tucholski"
+  ],
+  "Chorzów": [
+    "Bytom",
+    "Katowice",
+    "Piekary Śląskie",
+    "Ruda Śląska",
+    "Siemianowice Śląskie",
+    "Świętochłowice"
+  ],
+  "Choszczeński": [
+    "Drawski",
+    "Myśliborski",
+    "Stargardzki",
+    "Strzelecko-Drezdenecki",
+    "Wałecki"
+  ],
+  "Chrzanowski": [
+    "Jaworzno",
+    "Krakowski",
+    "Olkuski",
+    "Oświęcimski",
+    "Wadowicki"
+  ],
+  "Ciechanowski": [
+    "Makowski",
+    "Mławski",
+    "Płoński",
+    "Przasnyski",
+    "Pułtuski"
+  ],
+  "Cieszyński": [
+    "Bielski (Śląskie)",
+    "Bielsko-Biała",
+    "Jastrzębie-Zdrój",
+    "Pszczyński",
+    "Żywiecki"
+  ],
+  "Czarnkowsko-Trzcianecki": [
+    "Chodzieski",
+    "Międzychodzki",
+    "Obornicki",
+    "Strzelecko-Drezdenecki",
+    "Szamotulski",
+    "Wałecki"
+  ],
+  "Częstochowa": [
+    "Częstochowski",
+    "Kłobucki"
+  ],
+  "Częstochowski": [
+    "Częstochowa",
+    "Kłobucki",
+    "Lubliniecki",
+    "Myszkowski",
+    "Pajęczański",
+    "Radomszczański",
+    "Włoszczowski",
+    "Zawierciański"
+  ],
+  "Człuchowski": [
+    "Bytowski",
+    "Chojnicki",
+    "Sępoleński",
+    "Szczecinecki",
+    "Złotowski"
+  ],
+  "Dąbrowa Górnicza": [
+    "Będziński",
+    "Olkuski",
+    "Sosnowiec",
+    "Zawierciański"
+  ],
+  "Dąbrowski": [
+    "Buski",
+    "Dębicki",
+    "Kazimierski",
+    "Mielecki",
+    "Staszowski",
+    "Tarnowski"
+  ],
+  "Dębicki": [
+    "Dąbrowski",
+    "Jasielski",
+    "Mielecki",
+    "Ropczycko-Sędziszowski",
+    "Strzyżowski",
+    "Tarnowski"
+  ],
+  "Drawski": [
+    "Choszczeński",
+    "Łobeski",
+    "Stargardzki",
+    "Szczecinecki",
+    "Świdwiński",
+    "Wałecki",
+    "Złotowski"
+  ],
+  "Działdowski": [
+    "Brodnicki",
+    "Iławski",
+    "Mławski",
+    "Nidzicki",
+    "Nowomiejski",
+    "Ostródzki",
+    "Żuromiński"
+  ],
+  "Dzierżoniowski": [
+    "Kłodzki",
+    "Strzeliński",
+    "Świdnicki (Dolnośląskie)",
+    "Wałbrzyski",
+    "Wrocławski",
+    "Ząbkowicki"
+  ],
+  "Elbląg": [
+    "Elbląski"
+  ],
+  "Elbląski": [
+    "Braniewski",
+    "Elbląg",
+    "Lidzbarski",
+    "Malborski",
+    "Nowodworski (Pomorskie)",
+    "Ostródzki",
+    "Sztumski"
+  ],
+  "Ełcki": [
+    "Augustowski",
+    "Giżycki",
+    "Grajewski",
+    "Olecki",
+    "Piski",
+    "Suwalski"
+  ],
+  "Garwoliński": [
+    "Grójecki",
+    "Kozienicki",
+    "Łukowski",
+    "Miński",
+    "Otwocki",
+    "Rycki",
+    "Siedlecki"
+  ],
+  "Gdańsk": [
+    "Gdański",
+    "Gdynia",
+    "Kartuski",
+    "Nowodworski (Pomorskie)",
+    "Sopot"
+  ],
+  "Gdański": [
+    "Gdańsk",
+    "Kartuski",
+    "Kościerski",
+    "Malborski",
+    "Nowodworski (Pomorskie)",
+    "Starogardzki",
+    "Tczewski"
+  ],
+  "Gdynia": [
+    "Gdańsk",
+    "Kartuski",
+    "Pucki",
+    "Sopot",
+    "Wejherowski"
+  ],
+  "Giżycki": [
+    "Ełcki",
+    "Gołdapski",
+    "Kętrzyński",
+    "Mrągowski",
+    "Olecki",
+    "Piski",
+    "Węgorzewski"
+  ],
+  "Gliwice": [
+    "Gliwicki",
+    "Tarnogórski",
+    "Zabrze"
+  ],
+  "Gliwicki": [
+    "Gliwice",
+    "Kędzierzyńsko-Kozielski",
+    "Mikołowski",
+    "Raciborski",
+    "Ruda Śląska",
+    "Rybnik",
+    "Strzelecki",
+    "Tarnogórski",
+    "Zabrze"
+  ],
+  "Głogowski": [
+    "Górowski",
+    "Lubiński",
+    "Nowosolski",
+    "Polkowicki",
+    "Wschowski",
+    "Żagański"
+  ],
+  "Głubczycki": [
+    "Kędzierzyńsko-Kozielski",
+    "Prudnicki",
+    "Raciborski"
+  ],
+  "Gnieźnieński": [
+    "Mogileński",
+    "Poznański",
+    "Słupecki",
+    "Wągrowiecki",
+    "Wrzesiński",
+    "Żniński"
+  ],
+  "Goleniowski": [
+    "Gryficki",
+    "Kamieński",
+    "Łobeski",
+    "Policki",
+    "Stargardzki",
+    "Szczecin",
+    "Świnoujście"
+  ],
+  "Golubsko-Dobrzyński": [
+    "Brodnicki",
+    "Lipnowski",
+    "Rypiński",
+    "Toruński",
+    "Wąbrzeski"
+  ],
+  "Gołdapski": [
+    "Giżycki",
+    "Olecki",
+    "Suwalski",
+    "Węgorzewski"
+  ],
+  "Gorlicki": [
+    "Jasielski",
+    "Nowosądecki",
+    "Tarnowski"
+  ],
+  "Gorzowski": [
+    "Gorzów Wielkopolski",
+    "Międzyrzecki",
+    "Myśliborski",
+    "Słubicki",
+    "Strzelecko-Drezdenecki",
+    "Sulęciński"
+  ],
+  "Gorzów Wielkopolski": [
+    "Gorzowski"
+  ],
+  "Gostyniński": [
+    "Kutnowski",
+    "Łowicki",
+    "Płocki",
+    "Sochaczewski",
+    "Włocławski"
+  ],
+  "Gostyński": [
+    "Jarociński",
+    "Kościański",
+    "Krotoszyński",
+    "Leszczyński",
+    "Rawicki",
+    "Śremski"
+  ],
+  "Górowski": [
+    "Głogowski",
+    "Leszczyński",
+    "Lubiński",
+    "Rawicki",
+    "Trzebnicki",
+    "Wołowski",
+    "Wschowski"
+  ],
+  "Grajewski": [
+    "Augustowski",
+    "Ełcki",
+    "Kolneński",
+    "Łomżyński",
+    "Moniecki",
+    "Piski"
+  ],
+  "Grodziski (Mazowieckie)": [
+    "Grójecki",
+    "Piaseczyński",
+    "Pruszkowski",
+    "Sochaczewski",
+    "Warszawski Zachodni",
+    "Żyrardowski"
+  ],
+  "Grodziski (Wielkopolskie)": [
+    "Kościański",
+    "Nowotomyski",
+    "Poznański",
+    "Wolsztyński"
+  ],
+  "Grójecki": [
+    "Białobrzeski",
+    "Garwoliński",
+    "Grodziski (Mazowieckie)",
+    "Kozienicki",
+    "Otwocki",
+    "Piaseczyński",
+    "Przysuski",
+    "Rawski",
+    "Tomaszowski (Łódzkie)",
+    "Żyrardowski"
+  ],
+  "Grudziądz": [
+    "Grudziądzki",
+    "Świecki"
+  ],
+  "Grudziądzki": [
+    "Brodnicki",
+    "Chełmiński",
+    "Grudziądz",
+    "Iławski",
+    "Kwidzyński",
+    "Nowomiejski",
+    "Świecki",
+    "Wąbrzeski"
+  ],
+  "Gryficki": [
+    "Goleniowski",
+    "Kamieński",
+    "Kołobrzeski",
+    "Łobeski"
+  ],
+  "Gryfiński": [
+    "Myśliborski",
+    "Policki",
+    "Pyrzycki",
+    "Szczecin"
+  ],
+  "Hajnowski": [
+    "Białostocki",
+    "Bielski (Podlaskie)",
+    "Siemiatycki"
+  ],
+  "Hrubieszowski": [
+    "Chełmski",
+    "Tomaszowski (Lubelskie)",
+    "Zamojski"
+  ],
+  "Iławski": [
+    "Działdowski",
+    "Grudziądzki",
+    "Kwidzyński",
+    "Nowomiejski",
+    "Ostródzki",
+    "Sztumski"
+  ],
+  "Inowrocławski": [
+    "Aleksandrowski",
+    "Bydgoski",
+    "Koniński",
+    "Mogileński",
+    "Radziejowski",
+    "Toruński",
+    "Żniński"
+  ],
+  "Janowski": [
+    "Biłgorajski",
+    "Kraśnicki",
+    "Lubelski",
+    "Niżański",
+    "Stalowowolski"
+  ],
+  "Jarociński": [
+    "Gostyński",
+    "Krotoszyński",
+    "Pleszewski",
+    "Średzki (Wielkopolskie)",
+    "Śremski",
+    "Wrzesiński"
+  ],
+  "Jarosławski": [
+    "Lubaczowski",
+    "Przemyski",
+    "Przeworski"
+  ],
+  "Jasielski": [
+    "Dębicki",
+    "Gorlicki",
+    "Krośnieński (Podkarpackie)",
+    "Strzyżowski",
+    "Tarnowski"
+  ],
+  "Jastrzębie-Zdrój": [
+    "Cieszyński",
+    "Pszczyński",
+    "Rybnicki",
+    "Wodzisławski",
+    "Żory"
+  ],
+  "Jaworski": [
+    "Kamiennogórski",
+    "Karkonoski",
+    "Legnicki",
+    "Średzki (Dolnośląskie)",
+    "Świdnicki (Dolnośląskie)",
+    "Wałbrzyski",
+    "Złotoryjski"
+  ],
+  "Jaworzno": [
+    "Bieruńsko-Lędziński",
+    "Chrzanowski",
+    "Mysłowice",
+    "Olkuski",
+    "Oświęcimski",
+    "Sosnowiec"
+  ],
+  "Jelenia Góra": [
+    "Karkonoski"
+  ],
+  "Jędrzejowski": [
+    "Kielecki",
+    "Miechowski",
+    "Pińczowski",
+    "Włoszczowski",
+    "Zawierciański"
+  ],
+  "Kaliski": [
+    "Kalisz",
+    "Koniński",
+    "Ostrowski (Wielkopolskie)",
+    "Ostrzeszowski",
+    "Pleszewski",
+    "Sieradzki",
+    "Turecki"
+  ],
+  "Kalisz": [
+    "Kaliski",
+    "Ostrowski (Wielkopolskie)",
+    "Pleszewski"
+  ],
+  "Kamiennogórski": [
+    "Jaworski",
+    "Karkonoski",
+    "Wałbrzyski"
+  ],
+  "Kamieński": [
+    "Goleniowski",
+    "Gryficki",
+    "Świnoujście"
+  ],
+  "Karkonoski": [
+    "Jaworski",
+    "Jelenia Góra",
+    "Kamiennogórski",
+    "Lwówecki",
+    "Złotoryjski"
+  ],
+  "Kartuski": [
+    "Gdańsk",
+    "Gdański",
+    "Gdynia",
+    "Kościerski",
+    "Lęborski",
+    "Wejherowski"
+  ],
+  "Katowice": [
+    "Będziński",
+    "Bieruńsko-Lędziński",
+    "Chorzów",
+    "Mikołowski",
+    "Mysłowice",
+    "Ruda Śląska",
+    "Siemianowice Śląskie",
+    "Sosnowiec",
+    "Tychy"
+  ],
+  "Kazimierski": [
+    "Buski",
+    "Dąbrowski",
+    "Miechowski",
+    "Pińczowski",
+    "Proszowicki",
+    "Tarnowski"
+  ],
+  "Kędzierzyńsko-Kozielski": [
+    "Gliwicki",
+    "Głubczycki",
+    "Krapkowicki",
+    "Prudnicki",
+    "Raciborski",
+    "Strzelecki"
+  ],
+  "Kępiński": [
+    "Kluczborski",
+    "Namysłowski",
+    "Oleśnicki",
+    "Ostrzeszowski",
+    "Wieruszowski"
+  ],
+  "Kętrzyński": [
+    "Bartoszycki",
+    "Giżycki",
+    "Mrągowski",
+    "Olsztyński",
+    "Węgorzewski"
+  ],
+  "Kielce": [
+    "Kielecki"
+  ],
+  "Kielecki": [
+    "Buski",
+    "Jędrzejowski",
+    "Kielce",
+    "Konecki",
+    "Opatowski",
+    "Ostrowiecki",
+    "Pińczowski",
+    "Skarżyski",
+    "Starachowicki",
+    "Staszowski",
+    "Włoszczowski"
+  ],
+  "Kluczborski": [
+    "Kępiński",
+    "Namysłowski",
+    "Oleski",
+    "Opolski (Opolskie)",
+    "Wieruszowski"
+  ],
+  "Kłobucki": [
+    "Częstochowa",
+    "Częstochowski",
+    "Lubliniecki",
+    "Oleski",
+    "Pajęczański",
+    "Wieluński"
+  ],
+  "Kłodzki": [
+    "Dzierżoniowski",
+    "Wałbrzyski",
+    "Ząbkowicki"
+  ],
+  "Kolbuszowski": [
+    "Mielecki",
+    "Niżański",
+    "Ropczycko-Sędziszowski",
+    "Rzeszowski",
+    "Stalowowolski",
+    "Tarnobrzeski"
+  ],
+  "Kolneński": [
+    "Grajewski",
+    "Łomżyński",
+    "Ostrołęcki",
+    "Piski"
+  ],
+  "Kolski": [
+    "Koniński",
+    "Kutnowski",
+    "Łęczycki",
+    "Poddębicki",
+    "Radziejowski",
+    "Turecki",
+    "Włocławski"
+  ],
+  "Kołobrzeski": [
+    "Białogardzki",
+    "Gryficki",
+    "Koszaliński",
+    "Łobeski",
+    "Świdwiński"
+  ],
+  "Konecki": [
+    "Kielecki",
+    "Opoczyński",
+    "Przysuski",
+    "Radomszczański",
+    "Skarżyski",
+    "Szydłowiecki",
+    "Włoszczowski"
+  ],
+  "Konin": [
+    "Koniński"
+  ],
+  "Koniński": [
+    "Inowrocławski",
+    "Kaliski",
+    "Kolski",
+    "Konin",
+    "Mogileński",
+    "Pleszewski",
+    "Radziejowski",
+    "Słupecki",
+    "Turecki"
+  ],
+  "Koszalin": [
+    "Koszaliński"
+  ],
+  "Koszaliński": [
+    "Białogardzki",
+    "Bytowski",
+    "Kołobrzeski",
+    "Koszalin",
+    "Sławieński",
+    "Słupski",
+    "Szczecinecki"
+  ],
+  "Kościański": [
+    "Gostyński",
+    "Grodziski (Wielkopolskie)",
+    "Leszczyński",
+    "Poznański",
+    "Śremski",
+    "Wolsztyński"
+  ],
+  "Kościerski": [
+    "Bytowski",
+    "Chojnicki",
+    "Gdański",
+    "Kartuski",
+    "Starogardzki"
+  ],
+  "Kozienicki": [
+    "Białobrzeski",
+    "Garwoliński",
+    "Grójecki",
+    "Puławski",
+    "Radomski",
+    "Rycki",
+    "Zwoleński"
+  ],
+  "Krakowski": [
+    "Chrzanowski",
+    "Kraków",
+    "Miechowski",
+    "Myślenicki",
+    "Olkuski",
+    "Proszowicki",
+    "Wadowicki",
+    "Wielicki"
+  ],
+  "Kraków": [
+    "Krakowski",
+    "Proszowicki",
+    "Wielicki"
+  ],
+  "Krapkowicki": [
+    "Kędzierzyńsko-Kozielski",
+    "Opolski (Opolskie)",
+    "Prudnicki",
+    "Strzelecki"
+  ],
+  "Krasnostawski": [
+    "Biłgorajski",
+    "Chełmski",
+    "Lubelski",
+    "Świdnicki (Lubelskie)",
+    "Zamojski"
+  ],
+  "Kraśnicki": [
+    "Janowski",
+    "Lubelski",
+    "Opatowski",
+    "Opolski (Lubelskie)",
+    "Sandomierski",
+    "Stalowowolski"
+  ],
+  "Krosno": [
+    "Krośnieński (Podkarpackie)"
+  ],
+  "Krośnieński (Lubuskie)": [
+    "Słubicki",
+    "Sulęciński",
+    "Świebodziński",
+    "Zielonogórski",
+    "Żarski"
+  ],
+  "Krośnieński (Podkarpackie)": [
+    "Brzozowski",
+    "Jasielski",
+    "Krosno",
+    "Sanocki",
+    "Strzyżowski"
+  ],
+  "Krotoszyński": [
+    "Gostyński",
+    "Jarociński",
+    "Milicki",
+    "Ostrowski (Wielkopolskie)",
+    "Pleszewski",
+    "Rawicki"
+  ],
+  "Kutnowski": [
+    "Gostyniński",
+    "Kolski",
+    "Łęczycki",
+    "Łowicki",
+    "Włocławski"
+  ],
+  "Kwidzyński": [
+    "Grudziądzki",
+    "Iławski",
+    "Sztumski",
+    "Świecki",
+    "Tczewski"
+  ],
+  "Legionowski": [
+    "Nowodworski (Mazowieckie)",
+    "Pułtuski",
+    "Warszawa",
+    "Warszawski Zachodni",
+    "Wołomiński",
+    "Wyszkowski"
+  ],
+  "Legnica": [
+    "Legnicki"
+  ],
+  "Legnicki": [
+    "Bolesławiecki",
+    "Jaworski",
+    "Legnica",
+    "Lubiński",
+    "Polkowicki",
+    "Średzki (Dolnośląskie)",
+    "Wołowski",
+    "Złotoryjski"
+  ],
+  "Leski": [
+    "Bieszczadzki",
+    "Sanocki"
+  ],
+  "Leszczyński": [
+    "Gostyński",
+    "Górowski",
+    "Kościański",
+    "Leszno",
+    "Rawicki",
+    "Wolsztyński",
+    "Wschowski"
+  ],
+  "Leszno": [
+    "Leszczyński"
+  ],
+  "Leżajski": [
+    "Biłgorajski",
+    "Łańcucki",
+    "Niżański",
+    "Przeworski",
+    "Rzeszowski"
+  ],
+  "Lęborski": [
+    "Bytowski",
+    "Kartuski",
+    "Słupski",
+    "Wejherowski"
+  ],
+  "Lidzbarski": [
+    "Bartoszycki",
+    "Braniewski",
+    "Elbląski",
+    "Olsztyński",
+    "Ostródzki"
+  ],
+  "Limanowski": [
+    "Bocheński",
+    "Brzeski (Małopolskie)",
+    "Myślenicki",
+    "Nowosądecki",
+    "Nowotarski"
+  ],
+  "Lipnowski": [
+    "Aleksandrowski",
+    "Golubsko-Dobrzyński",
+    "Płocki",
+    "Rypiński",
+    "Sierpecki",
+    "Toruński",
+    "Włocławek",
+    "Włocławski"
+  ],
+  "Lipski": [
+    "Opatowski",
+    "Opolski (Lubelskie)",
+    "Ostrowiecki",
+    "Radomski",
+    "Starachowicki",
+    "Zwoleński"
+  ],
+  "Lubaczowski": [
+    "Biłgorajski",
+    "Jarosławski",
+    "Przeworski",
+    "Tomaszowski (Lubelskie)"
+  ],
+  "Lubański": [
+    "Bolesławiecki",
+    "Lwówecki",
+    "Zgorzelecki"
+  ],
+  "Lubartowski": [
+    "Lubelski",
+    "Łęczyński",
+    "Łukowski",
+    "Parczewski",
+    "Puławski",
+    "Radzyński",
+    "Rycki"
+  ],
+  "Lubelski": [
+    "Biłgorajski",
+    "Janowski",
+    "Krasnostawski",
+    "Kraśnicki",
+    "Lubartowski",
+    "Lublin",
+    "Łęczyński",
+    "Opolski (Lubelskie)",
+    "Puławski",
+    "Świdnicki (Lubelskie)"
+  ],
+  "Lubiński": [
+    "Głogowski",
+    "Górowski",
+    "Legnicki",
+    "Polkowicki",
+    "Wołowski"
+  ],
+  "Lublin": [
+    "Lubelski",
+    "Świdnicki (Lubelskie)"
+  ],
+  "Lubliniecki": [
+    "Częstochowski",
+    "Kłobucki",
+    "Myszkowski",
+    "Oleski",
+    "Strzelecki",
+    "Tarnogórski"
+  ],
+  "Lwówecki": [
+    "Bolesławiecki",
+    "Karkonoski",
+    "Lubański",
+    "Złotoryjski"
+  ],
+  "Łańcucki": [
+    "Leżajski",
+    "Przeworski",
+    "Rzeszowski"
+  ],
+  "Łaski": [
+    "Bełchatowski",
+    "Pabianicki",
+    "Poddębicki",
+    "Sieradzki",
+    "Wieluński",
+    "Zduńskowolski"
+  ],
+  "Łęczycki": [
+    "Kolski",
+    "Kutnowski",
+    "Łowicki",
+    "Poddębicki",
+    "Zgierski"
+  ],
+  "Łęczyński": [
+    "Chełmski",
+    "Lubartowski",
+    "Lubelski",
+    "Parczewski",
+    "Świdnicki (Lubelskie)",
+    "Włodawski"
+  ],
+  "Łobeski": [
+    "Drawski",
+    "Goleniowski",
+    "Gryficki",
+    "Kołobrzeski",
+    "Stargardzki",
+    "Świdwiński"
+  ],
+  "Łomża": [
+    "Łomżyński"
+  ],
+  "Łomżyński": [
+    "Białostocki",
+    "Grajewski",
+    "Kolneński",
+    "Łomża",
+    "Moniecki",
+    "Ostrołęcki",
+    "Ostrowski (Mazowieckie)",
+    "Zambrowski"
+  ],
+  "Łosicki": [
+    "Bialski",
+    "Siedlecki",
+    "Siemiatycki"
+  ],
+  "Łowicki": [
+    "Brzeziński",
+    "Gostyniński",
+    "Kutnowski",
+    "Łęczycki",
+    "Skierniewicki",
+    "Sochaczewski",
+    "Zgierski"
+  ],
+  "Łódzki Wschodni": [
+    "Brzeziński",
+    "Łódź",
+    "Pabianicki",
+    "Piotrkowski",
+    "Tomaszowski (Łódzkie)",
+    "Zgierski"
+  ],
+  "Łódź": [
+    "Łódzki Wschodni",
+    "Pabianicki",
+    "Zgierski"
+  ],
+  "Łukowski": [
+    "Bialski",
+    "Garwoliński",
+    "Lubartowski",
+    "Radzyński",
+    "Rycki",
+    "Siedlecki"
+  ],
+  "Makowski": [
+    "Ciechanowski",
+    "Ostrołęcki",
+    "Przasnyski",
+    "Pułtuski",
+    "Wyszkowski"
+  ],
+  "Malborski": [
+    "Elbląski",
+    "Gdański",
+    "Nowodworski (Pomorskie)",
+    "Sztumski",
+    "Tczewski"
+  ],
+  "Miechowski": [
+    "Jędrzejowski",
+    "Kazimierski",
+    "Krakowski",
+    "Olkuski",
+    "Pińczowski",
+    "Proszowicki",
+    "Zawierciański"
+  ],
+  "Mielecki": [
+    "Dąbrowski",
+    "Dębicki",
+    "Kolbuszowski",
+    "Ropczycko-Sędziszowski",
+    "Staszowski",
+    "Tarnobrzeski"
+  ],
+  "Międzychodzki": [
+    "Czarnkowsko-Trzcianecki",
+    "Międzyrzecki",
+    "Nowotomyski",
+    "Strzelecko-Drezdenecki",
+    "Szamotulski"
+  ],
+  "Międzyrzecki": [
+    "Gorzowski",
+    "Międzychodzki",
+    "Nowotomyski",
+    "Strzelecko-Drezdenecki",
+    "Sulęciński",
+    "Świebodziński"
+  ],
+  "Mikołowski": [
+    "Gliwicki",
+    "Katowice",
+    "Pszczyński",
+    "Ruda Śląska",
+    "Tychy"
+  ],
+  "Milicki": [
+    "Krotoszyński",
+    "Oleśnicki",
+    "Ostrowski (Wielkopolskie)",
+    "Rawicki",
+    "Trzebnicki"
+  ],
+  "Miński": [
+    "Garwoliński",
+    "Otwocki",
+    "Siedlecki",
+    "Warszawa",
+    "Węgrowski",
+    "Wołomiński"
+  ],
+  "Mławski": [
+    "Ciechanowski",
+    "Działdowski",
+    "Nidzicki",
+    "Płoński",
+    "Przasnyski",
+    "Żuromiński"
+  ],
+  "Mogileński": [
+    "Gnieźnieński",
+    "Inowrocławski",
+    "Koniński",
+    "Słupecki",
+    "Żniński"
+  ],
+  "Moniecki": [
+    "Augustowski",
+    "Białostocki",
+    "Grajewski",
+    "Łomżyński",
+    "Sokólski"
+  ],
+  "Mrągowski": [
+    "Giżycki",
+    "Kętrzyński",
+    "Olsztyński",
+    "Piski",
+    "Szczycieński"
+  ],
+  "Mysłowice": [
+    "Bieruńsko-Lędziński",
+    "Jaworzno",
+    "Katowice",
+    "Sosnowiec"
+  ],
+  "Myszkowski": [
+    "Będziński",
+    "Częstochowski",
+    "Lubliniecki",
+    "Tarnogórski",
+    "Zawierciański"
+  ],
+  "Myślenicki": [
+    "Bocheński",
+    "Krakowski",
+    "Limanowski",
+    "Nowotarski",
+    "Suski",
+    "Wadowicki",
+    "Wielicki"
+  ],
+  "Myśliborski": [
+    "Choszczeński",
+    "Gorzowski",
+    "Gryfiński",
+    "Pyrzycki",
+    "Strzelecko-Drezdenecki"
+  ],
+  "Nakielski": [
+    "Bydgoski",
+    "Pilski",
+    "Sępoleński",
+    "Wągrowiecki",
+    "Żniński"
+  ],
+  "Namysłowski": [
+    "Brzeski (Opolskie)",
+    "Kępiński",
+    "Kluczborski",
+    "Oleśnicki",
+    "Oławski",
+    "Opolski (Opolskie)"
+  ],
+  "Nidzicki": [
+    "Działdowski",
+    "Mławski",
+    "Olsztyński",
+    "Ostródzki",
+    "Przasnyski",
+    "Szczycieński"
+  ],
+  "Niżański": [
+    "Biłgorajski",
+    "Janowski",
+    "Kolbuszowski",
+    "Leżajski",
+    "Rzeszowski",
+    "Stalowowolski"
+  ],
+  "Nowodworski (Mazowieckie)": [
+    "Legionowski",
+    "Płoński",
+    "Pułtuski",
+    "Sochaczewski",
+    "Warszawski Zachodni"
+  ],
+  "Nowodworski (Pomorskie)": [
+    "Braniewski",
+    "Elbląski",
+    "Gdańsk",
+    "Gdański",
+    "Malborski"
+  ],
+  "Nowomiejski": [
+    "Brodnicki",
+    "Działdowski",
+    "Grudziądzki",
+    "Iławski"
+  ],
+  "Nowosądecki": [
+    "Brzeski (Małopolskie)",
+    "Gorlicki",
+    "Limanowski",
+    "Nowotarski",
+    "Nowy Sącz",
+    "Tarnowski"
+  ],
+  "Nowosolski": [
+    "Głogowski",
+    "Wolsztyński",
+    "Wschowski",
+    "Zielona Góra",
+    "Zielonogórski",
+    "Żagański"
+  ],
+  "Nowotarski": [
+    "Limanowski",
+    "Myślenicki",
+    "Nowosądecki",
+    "Suski",
+    "Tatrzański"
+  ],
+  "Nowotomyski": [
+    "Grodziski (Wielkopolskie)",
+    "Międzychodzki",
+    "Międzyrzecki",
+    "Poznański",
+    "Szamotulski",
+    "Świebodziński",
+    "Wolsztyński",
+    "Zielonogórski"
+  ],
+  "Nowy Sącz": [
+    "Nowosądecki"
+  ],
+  "Nyski": [
+    "Brzeski (Opolskie)",
+    "Opolski (Opolskie)",
+    "Prudnicki",
+    "Strzeliński",
+    "Ząbkowicki"
+  ],
+  "Obornicki": [
+    "Chodzieski",
+    "Czarnkowsko-Trzcianecki",
+    "Poznański",
+    "Szamotulski",
+    "Wągrowiecki"
+  ],
+  "Olecki": [
+    "Ełcki",
+    "Giżycki",
+    "Gołdapski",
+    "Suwalski"
+  ],
+  "Oleski": [
+    "Kluczborski",
+    "Kłobucki",
+    "Lubliniecki",
+    "Opolski (Opolskie)",
+    "Strzelecki",
+    "Wieluński",
+    "Wieruszowski"
+  ],
+  "Oleśnicki": [
+    "Kępiński",
+    "Milicki",
+    "Namysłowski",
+    "Oławski",
+    "Ostrowski (Wielkopolskie)",
+    "Ostrzeszowski",
+    "Trzebnicki",
+    "Wrocławski"
+  ],
+  "Olkuski": [
+    "Chrzanowski",
+    "Dąbrowa Górnicza",
+    "Jaworzno",
+    "Krakowski",
+    "Miechowski",
+    "Zawierciański"
+  ],
+  "Olsztyn": [
+    "Olsztyński"
+  ],
+  "Olsztyński": [
+    "Bartoszycki",
+    "Kętrzyński",
+    "Lidzbarski",
+    "Mrągowski",
+    "Nidzicki",
+    "Olsztyn",
+    "Ostródzki",
+    "Szczycieński"
+  ],
+  "Oławski": [
+    "Brzeski (Opolskie)",
+    "Namysłowski",
+    "Oleśnicki",
+    "Strzeliński",
+    "Wrocławski"
+  ],
+  "Opatowski": [
+    "Kielecki",
+    "Kraśnicki",
+    "Lipski",
+    "Opolski (Lubelskie)",
+    "Ostrowiecki",
+    "Sandomierski",
+    "Staszowski"
+  ],
+  "Opoczyński": [
+    "Konecki",
+    "Piotrkowski",
+    "Przysuski",
+    "Radomszczański",
+    "Tomaszowski (Łódzkie)"
+  ],
+  "Opole": [
+    "Opolski (Opolskie)"
+  ],
+  "Opolski (Lubelskie)": [
+    "Kraśnicki",
+    "Lipski",
+    "Lubelski",
+    "Opatowski",
+    "Puławski",
+    "Zwoleński"
+  ],
+  "Opolski (Opolskie)": [
+    "Brzeski (Opolskie)",
+    "Kluczborski",
+    "Krapkowicki",
+    "Namysłowski",
+    "Nyski",
+    "Oleski",
+    "Opole",
+    "Prudnicki",
+    "Strzelecki"
+  ],
+  "Ostrołęcki": [
+    "Kolneński",
+    "Łomżyński",
+    "Makowski",
+    "Ostrołęka",
+    "Piski",
+    "Przasnyski",
+    "Szczycieński",
+    "Wyszkowski"
+  ],
+  "Ostrołęka": [
+    "Ostrołęcki"
+  ],
+  "Ostrowiecki": [
+    "Kielecki",
+    "Lipski",
+    "Opatowski",
+    "Starachowicki"
+  ],
+  "Ostrowski (Mazowieckie)": [
+    "Łomżyński",
+    "Sokołowski",
+    "Węgrowski",
+    "Wysokomazowiecki",
+    "Wyszkowski",
+    "Zambrowski"
+  ],
+  "Ostrowski (Wielkopolskie)": [
+    "Kaliski",
+    "Kalisz",
+    "Krotoszyński",
+    "Milicki",
+    "Oleśnicki",
+    "Ostrzeszowski",
+    "Pleszewski"
+  ],
+  "Ostródzki": [
+    "Działdowski",
+    "Elbląski",
+    "Iławski",
+    "Lidzbarski",
+    "Nidzicki",
+    "Olsztyński",
+    "Sztumski"
+  ],
+  "Ostrzeszowski": [
+    "Kaliski",
+    "Kępiński",
+    "Oleśnicki",
+    "Ostrowski (Wielkopolskie)",
+    "Sieradzki",
+    "Wieruszowski"
+  ],
+  "Oświęcimski": [
+    "Bielski (Śląskie)",
+    "Bieruńsko-Lędziński",
+    "Chrzanowski",
+    "Jaworzno",
+    "Pszczyński",
+    "Wadowicki"
+  ],
+  "Otwocki": [
+    "Garwoliński",
+    "Grójecki",
+    "Miński",
+    "Piaseczyński",
+    "Warszawa"
+  ],
+  "Pabianicki": [
+    "Bełchatowski",
+    "Łaski",
+    "Łódzki Wschodni",
+    "Łódź",
+    "Piotrkowski",
+    "Poddębicki",
+    "Zgierski"
+  ],
+  "Pajęczański": [
+    "Bełchatowski",
+    "Częstochowski",
+    "Kłobucki",
+    "Radomszczański",
+    "Wieluński"
+  ],
+  "Parczewski": [
+    "Bialski",
+    "Lubartowski",
+    "Łęczyński",
+    "Radzyński",
+    "Włodawski"
+  ],
+  "Piaseczyński": [
+    "Grodziski (Mazowieckie)",
+    "Grójecki",
+    "Otwocki",
+    "Pruszkowski",
+    "Warszawa"
+  ],
+  "Piekary Śląskie": [
+    "Będziński",
+    "Bytom",
+    "Chorzów",
+    "Siemianowice Śląskie",
+    "Tarnogórski"
+  ],
+  "Pilski": [
+    "Chodzieski",
+    "Nakielski",
+    "Sępoleński",
+    "Wałecki",
+    "Wągrowiecki",
+    "Złotowski"
+  ],
+  "Pińczowski": [
+    "Buski",
+    "Jędrzejowski",
+    "Kazimierski",
+    "Kielecki",
+    "Miechowski"
+  ],
+  "Piotrkowski": [
+    "Bełchatowski",
+    "Łódzki Wschodni",
+    "Opoczyński",
+    "Pabianicki",
+    "Piotrków Trybunalski",
+    "Radomszczański",
+    "Tomaszowski (Łódzkie)"
+  ],
+  "Piotrków Trybunalski": [
+    "Piotrkowski"
+  ],
+  "Piski": [
+    "Ełcki",
+    "Giżycki",
+    "Grajewski",
+    "Kolneński",
+    "Mrągowski",
+    "Ostrołęcki",
+    "Szczycieński"
+  ],
+  "Pleszewski": [
+    "Jarociński",
+    "Kaliski",
+    "Kalisz",
+    "Koniński",
+    "Krotoszyński",
+    "Ostrowski (Wielkopolskie)",
+    "Słupecki",
+    "Wrzesiński"
+  ],
+  "Płock": [
+    "Płocki"
+  ],
+  "Płocki": [
+    "Gostyniński",
+    "Lipnowski",
+    "Płock",
+    "Płoński",
+    "Sierpecki",
+    "Sochaczewski",
+    "Włocławski"
+  ],
+  "Płoński": [
+    "Ciechanowski",
+    "Mławski",
+    "Nowodworski (Mazowieckie)",
+    "Płocki",
+    "Pułtuski",
+    "Sierpecki",
+    "Sochaczewski",
+    "Żuromiński"
+  ],
+  "Poddębicki": [
+    "Kolski",
+    "Łaski",
+    "Łęczycki",
+    "Pabianicki",
+    "Sieradzki",
+    "Turecki",
+    "Zduńskowolski",
+    "Zgierski"
+  ],
+  "Policki": [
+    "Goleniowski",
+    "Gryfiński",
+    "Szczecin",
+    "Świnoujście"
+  ],
+  "Polkowicki": [
+    "Bolesławiecki",
+    "Głogowski",
+    "Legnicki",
+    "Lubiński",
+    "Żagański"
+  ],
+  "Poznań": [
+    "Poznański"
+  ],
+  "Poznański": [
+    "Gnieźnieński",
+    "Grodziski (Wielkopolskie)",
+    "Kościański",
+    "Nowotomyski",
+    "Obornicki",
+    "Poznań",
+    "Szamotulski",
+    "Średzki (Wielkopolskie)",
+    "Śremski",
+    "Wągrowiecki",
+    "Wrzesiński"
+  ],
+  "Proszowicki": [
+    "Bocheński",
+    "Brzeski (Małopolskie)",
+    "Kazimierski",
+    "Krakowski",
+    "Kraków",
+    "Miechowski",
+    "Tarnowski"
+  ],
+  "Prudnicki": [
+    "Głubczycki",
+    "Kędzierzyńsko-Kozielski",
+    "Krapkowicki",
+    "Nyski",
+    "Opolski (Opolskie)"
+  ],
+  "Pruszkowski": [
+    "Grodziski (Mazowieckie)",
+    "Piaseczyński",
+    "Warszawa",
+    "Warszawski Zachodni"
+  ],
+  "Przasnyski": [
+    "Ciechanowski",
+    "Makowski",
+    "Mławski",
+    "Nidzicki",
+    "Ostrołęcki",
+    "Szczycieński"
+  ],
+  "Przemyski": [
+    "Bieszczadzki",
+    "Brzozowski",
+    "Jarosławski",
+    "Przemyśl",
+    "Przeworski",
+    "Rzeszowski",
+    "Sanocki"
+  ],
+  "Przemyśl": [
+    "Przemyski"
+  ],
+  "Przeworski": [
+    "Biłgorajski",
+    "Jarosławski",
+    "Leżajski",
+    "Lubaczowski",
+    "Łańcucki",
+    "Przemyski",
+    "Rzeszowski"
+  ],
+  "Przysuski": [
+    "Białobrzeski",
+    "Grójecki",
+    "Konecki",
+    "Opoczyński",
+    "Radomski",
+    "Szydłowiecki",
+    "Tomaszowski (Łódzkie)"
+  ],
+  "Pszczyński": [
+    "Bielski (Śląskie)",
+    "Bieruńsko-Lędziński",
+    "Cieszyński",
+    "Jastrzębie-Zdrój",
+    "Mikołowski",
+    "Oświęcimski",
+    "Tychy"
+  ],
+  "Pucki": [
+    "Gdynia",
+    "Wejherowski"
+  ],
+  "Puławski": [
+    "Kozienicki",
+    "Lubartowski",
+    "Lubelski",
+    "Opolski (Lubelskie)",
+    "Rycki",
+    "Zwoleński"
+  ],
+  "Pułtuski": [
+    "Ciechanowski",
+    "Legionowski",
+    "Makowski",
+    "Nowodworski (Mazowieckie)",
+    "Płoński",
+    "Wyszkowski"
+  ],
+  "Pyrzycki": [
+    "Gryfiński",
+    "Myśliborski",
+    "Stargardzki"
+  ],
+  "Raciborski": [
+    "Gliwicki",
+    "Głubczycki",
+    "Kędzierzyńsko-Kozielski",
+    "Rybnicki",
+    "Rybnik",
+    "Wodzisławski"
+  ],
+  "Radom": [
+    "Radomski"
+  ],
+  "Radomski": [
+    "Białobrzeski",
+    "Kozienicki",
+    "Lipski",
+    "Przysuski",
+    "Radom",
+    "Starachowicki",
+    "Szydłowiecki",
+    "Zwoleński"
+  ],
+  "Radomszczański": [
+    "Bełchatowski",
+    "Częstochowski",
+    "Konecki",
+    "Opoczyński",
+    "Pajęczański",
+    "Piotrkowski",
+    "Włoszczowski"
+  ],
+  "Radziejowski": [
+    "Aleksandrowski",
+    "Inowrocławski",
+    "Kolski",
+    "Koniński",
+    "Włocławski"
+  ],
+  "Radzyński": [
+    "Bialski",
+    "Lubartowski",
+    "Łukowski",
+    "Parczewski"
+  ],
+  "Rawicki": [
+    "Gostyński",
+    "Górowski",
+    "Krotoszyński",
+    "Leszczyński",
+    "Milicki",
+    "Trzebnicki"
+  ],
+  "Rawski": [
+    "Grójecki",
+    "Skierniewicki",
+    "Tomaszowski (Łódzkie)",
+    "Żyrardowski"
+  ],
+  "Ropczycko-Sędziszowski": [
+    "Dębicki",
+    "Kolbuszowski",
+    "Mielecki",
+    "Rzeszowski",
+    "Strzyżowski"
+  ],
+  "Ruda Śląska": [
+    "Bytom",
+    "Chorzów",
+    "Gliwicki",
+    "Katowice",
+    "Mikołowski",
+    "Świętochłowice",
+    "Zabrze"
+  ],
+  "Rybnicki": [
+    "Jastrzębie-Zdrój",
+    "Raciborski",
+    "Rybnik",
+    "Wodzisławski"
+  ],
+  "Rybnik": [
+    "Gliwicki",
+    "Raciborski",
+    "Rybnicki",
+    "Wodzisławski",
+    "Żory"
+  ],
+  "Rycki": [
+    "Garwoliński",
+    "Kozienicki",
+    "Lubartowski",
+    "Łukowski",
+    "Puławski"
+  ],
+  "Rypiński": [
+    "Brodnicki",
+    "Golubsko-Dobrzyński",
+    "Lipnowski",
+    "Sierpecki",
+    "Żuromiński"
+  ],
+  "Rzeszowski": [
+    "Brzozowski",
+    "Kolbuszowski",
+    "Leżajski",
+    "Łańcucki",
+    "Niżański",
+    "Przemyski",
+    "Przeworski",
+    "Ropczycko-Sędziszowski",
+    "Rzeszów",
+    "Strzyżowski"
+  ],
+  "Rzeszów": [
+    "Rzeszowski"
+  ],
+  "Sandomierski": [
+    "Kraśnicki",
+    "Opatowski",
+    "Stalowowolski",
+    "Staszowski",
+    "Tarnobrzeg",
+    "Tarnobrzeski"
+  ],
+  "Sanocki": [
+    "Bieszczadzki",
+    "Brzozowski",
+    "Krośnieński (Podkarpackie)",
+    "Leski",
+    "Przemyski"
+  ],
+  "Sejneński": [
+    "Augustowski",
+    "Suwalski"
+  ],
+  "Sępoleński": [
+    "Bydgoski",
+    "Chojnicki",
+    "Człuchowski",
+    "Nakielski",
+    "Pilski",
+    "Tucholski",
+    "Złotowski"
+  ],
+  "Siedlce": [
+    "Siedlecki"
+  ],
+  "Siedlecki": [
+    "Garwoliński",
+    "Łosicki",
+    "Łukowski",
+    "Miński",
+    "Siedlce",
+    "Siemiatycki",
+    "Sokołowski",
+    "Węgrowski"
+  ],
+  "Siemianowice Śląskie": [
+    "Będziński",
+    "Chorzów",
+    "Katowice",
+    "Piekary Śląskie"
+  ],
+  "Siemiatycki": [
+    "Bialski",
+    "Bielski (Podlaskie)",
+    "Hajnowski",
+    "Łosicki",
+    "Siedlecki",
+    "Sokołowski",
+    "Wysokomazowiecki"
+  ],
+  "Sieradzki": [
+    "Kaliski",
+    "Łaski",
+    "Ostrzeszowski",
+    "Poddębicki",
+    "Turecki",
+    "Wieluński",
+    "Wieruszowski",
+    "Zduńskowolski"
+  ],
+  "Sierpecki": [
+    "Lipnowski",
+    "Płocki",
+    "Płoński",
+    "Rypiński",
+    "Żuromiński"
+  ],
+  "Skarżyski": [
+    "Kielecki",
+    "Konecki",
+    "Starachowicki",
+    "Szydłowiecki"
+  ],
+  "Skierniewice": [
+    "Skierniewicki"
+  ],
+  "Skierniewicki": [
+    "Brzeziński",
+    "Łowicki",
+    "Rawski",
+    "Skierniewice",
+    "Sochaczewski",
+    "Tomaszowski (Łódzkie)",
+    "Żyrardowski"
+  ],
+  "Sławieński": [
+    "Koszaliński",
+    "Słupski"
+  ],
+  "Słubicki": [
+    "Gorzowski",
+    "Krośnieński (Lubuskie)",
+    "Sulęciński"
+  ],
+  "Słupecki": [
+    "Gnieźnieński",
+    "Koniński",
+    "Mogileński",
+    "Pleszewski",
+    "Wrzesiński"
+  ],
+  "Słupsk": [
+    "Słupski"
+  ],
+  "Słupski": [
+    "Bytowski",
+    "Koszaliński",
+    "Lęborski",
+    "Sławieński",
+    "Słupsk"
+  ],
+  "Sochaczewski": [
+    "Gostyniński",
+    "Grodziski (Mazowieckie)",
+    "Łowicki",
+    "Nowodworski (Mazowieckie)",
+    "Płocki",
+    "Płoński",
+    "Skierniewicki",
+    "Warszawski Zachodni",
+    "Żyrardowski"
+  ],
+  "Sokołowski": [
+    "Ostrowski (Mazowieckie)",
+    "Siedlecki",
+    "Siemiatycki",
+    "Węgrowski",
+    "Wysokomazowiecki"
+  ],
+  "Sokólski": [
+    "Augustowski",
+    "Białostocki",
+    "Moniecki"
+  ],
+  "Sopot": [
+    "Gdańsk",
+    "Gdynia"
+  ],
+  "Sosnowiec": [
+    "Będziński",
+    "Dąbrowa Górnicza",
+    "Jaworzno",
+    "Katowice",
+    "Mysłowice"
+  ],
+  "Stalowowolski": [
+    "Janowski",
+    "Kolbuszowski",
+    "Kraśnicki",
+    "Niżański",
+    "Sandomierski",
+    "Tarnobrzeski"
+  ],
+  "Starachowicki": [
+    "Kielecki",
+    "Lipski",
+    "Ostrowiecki",
+    "Radomski",
+    "Skarżyski",
+    "Szydłowiecki"
+  ],
+  "Stargardzki": [
+    "Choszczeński",
+    "Drawski",
+    "Goleniowski",
+    "Łobeski",
+    "Pyrzycki",
+    "Szczecin"
+  ],
+  "Starogardzki": [
+    "Chojnicki",
+    "Gdański",
+    "Kościerski",
+    "Świecki",
+    "Tczewski",
+    "Tucholski"
+  ],
+  "Staszowski": [
+    "Buski",
+    "Dąbrowski",
+    "Kielecki",
+    "Mielecki",
+    "Opatowski",
+    "Sandomierski",
+    "Tarnobrzeski"
+  ],
+  "Strzelecki": [
+    "Gliwicki",
+    "Kędzierzyńsko-Kozielski",
+    "Krapkowicki",
+    "Lubliniecki",
+    "Oleski",
+    "Opolski (Opolskie)",
+    "Tarnogórski"
+  ],
+  "Strzelecko-Drezdenecki": [
+    "Choszczeński",
+    "Czarnkowsko-Trzcianecki",
+    "Gorzowski",
+    "Międzychodzki",
+    "Międzyrzecki",
+    "Myśliborski",
+    "Wałecki"
+  ],
+  "Strzeliński": [
+    "Brzeski (Opolskie)",
+    "Dzierżoniowski",
+    "Nyski",
+    "Oławski",
+    "Wrocławski",
+    "Ząbkowicki"
+  ],
+  "Strzyżowski": [
+    "Brzozowski",
+    "Dębicki",
+    "Jasielski",
+    "Krośnieński (Podkarpackie)",
+    "Ropczycko-Sędziszowski",
+    "Rzeszowski"
+  ],
+  "Sulęciński": [
+    "Gorzowski",
+    "Krośnieński (Lubuskie)",
+    "Międzyrzecki",
+    "Słubicki",
+    "Świebodziński"
+  ],
+  "Suski": [
+    "Myślenicki",
+    "Nowotarski",
+    "Wadowicki",
+    "Żywiecki"
+  ],
+  "Suwalski": [
+    "Augustowski",
+    "Ełcki",
+    "Gołdapski",
+    "Olecki",
+    "Sejneński",
+    "Suwałki"
+  ],
+  "Suwałki": [
+    "Suwalski"
+  ],
+  "Szamotulski": [
+    "Czarnkowsko-Trzcianecki",
+    "Międzychodzki",
+    "Nowotomyski",
+    "Obornicki",
+    "Poznański"
+  ],
+  "Szczecin": [
+    "Goleniowski",
+    "Gryfiński",
+    "Policki",
+    "Stargardzki"
+  ],
+  "Szczecinecki": [
+    "Białogardzki",
+    "Bytowski",
+    "Człuchowski",
+    "Drawski",
+    "Koszaliński",
+    "Świdwiński",
+    "Złotowski"
+  ],
+  "Szczycieński": [
+    "Mrągowski",
+    "Nidzicki",
+    "Olsztyński",
+    "Ostrołęcki",
+    "Piski",
+    "Przasnyski"
+  ],
+  "Sztumski": [
+    "Elbląski",
+    "Iławski",
+    "Kwidzyński",
+    "Malborski",
+    "Ostródzki",
+    "Tczewski"
+  ],
+  "Szydłowiecki": [
+    "Konecki",
+    "Przysuski",
+    "Radomski",
+    "Skarżyski",
+    "Starachowicki"
+  ],
+  "Średzki (Dolnośląskie)": [
+    "Jaworski",
+    "Legnicki",
+    "Świdnicki (Dolnośląskie)",
+    "Trzebnicki",
+    "Wołowski",
+    "Wrocław",
+    "Wrocławski"
+  ],
+  "Średzki (Wielkopolskie)": [
+    "Jarociński",
+    "Poznański",
+    "Śremski",
+    "Wrzesiński"
+  ],
+  "Śremski": [
+    "Gostyński",
+    "Jarociński",
+    "Kościański",
+    "Poznański",
+    "Średzki (Wielkopolskie)"
+  ],
+  "Świdnicki (Dolnośląskie)": [
+    "Dzierżoniowski",
+    "Jaworski",
+    "Średzki (Dolnośląskie)",
+    "Wałbrzych",
+    "Wałbrzyski",
+    "Wrocławski"
+  ],
+  "Świdnicki (Lubelskie)": [
+    "Chełmski",
+    "Krasnostawski",
+    "Lubelski",
+    "Lublin",
+    "Łęczyński"
+  ],
+  "Świdwiński": [
+    "Białogardzki",
+    "Drawski",
+    "Kołobrzeski",
+    "Łobeski",
+    "Szczecinecki"
+  ],
+  "Świebodziński": [
+    "Krośnieński (Lubuskie)",
+    "Międzyrzecki",
+    "Nowotomyski",
+    "Sulęciński",
+    "Zielonogórski"
+  ],
+  "Świecki": [
+    "Bydgoski",
+    "Chełmiński",
+    "Grudziądz",
+    "Grudziądzki",
+    "Kwidzyński",
+    "Starogardzki",
+    "Tczewski",
+    "Tucholski"
+  ],
+  "Świętochłowice": [
+    "Bytom",
+    "Chorzów",
+    "Ruda Śląska"
+  ],
+  "Świnoujście": [
+    "Goleniowski",
+    "Kamieński",
+    "Policki"
+  ],
+  "Tarnobrzeg": [
+    "Sandomierski",
+    "Tarnobrzeski"
+  ],
+  "Tarnobrzeski": [
+    "Kolbuszowski",
+    "Mielecki",
+    "Sandomierski",
+    "Stalowowolski",
+    "Staszowski",
+    "Tarnobrzeg"
+  ],
+  "Tarnogórski": [
+    "Będziński",
+    "Bytom",
+    "Gliwice",
+    "Gliwicki",
+    "Lubliniecki",
+    "Myszkowski",
+    "Piekary Śląskie",
+    "Strzelecki",
+    "Zabrze"
+  ],
+  "Tarnowski": [
+    "Brzeski (Małopolskie)",
+    "Dąbrowski",
+    "Dębicki",
+    "Gorlicki",
+    "Jasielski",
+    "Kazimierski",
+    "Nowosądecki",
+    "Proszowicki",
+    "Tarnów"
+  ],
+  "Tarnów": [
+    "Tarnowski"
+  ],
+  "Tatrzański": [
+    "Nowotarski"
+  ],
+  "Tczewski": [
+    "Gdański",
+    "Kwidzyński",
+    "Malborski",
+    "Starogardzki",
+    "Sztumski",
+    "Świecki"
+  ],
+  "Tomaszowski (Lubelskie)": [
+    "Biłgorajski",
+    "Hrubieszowski",
+    "Lubaczowski",
+    "Zamojski"
+  ],
+  "Tomaszowski (Łódzkie)": [
+    "Brzeziński",
+    "Grójecki",
+    "Łódzki Wschodni",
+    "Opoczyński",
+    "Piotrkowski",
+    "Przysuski",
+    "Rawski",
+    "Skierniewicki"
+  ],
+  "Toruń": [
+    "Toruński"
+  ],
+  "Toruński": [
+    "Aleksandrowski",
+    "Bydgoski",
+    "Bydgoszcz",
+    "Chełmiński",
+    "Golubsko-Dobrzyński",
+    "Inowrocławski",
+    "Lipnowski",
+    "Toruń",
+    "Wąbrzeski"
+  ],
+  "Trzebnicki": [
+    "Górowski",
+    "Milicki",
+    "Oleśnicki",
+    "Rawicki",
+    "Średzki (Dolnośląskie)",
+    "Wołowski",
+    "Wrocław",
+    "Wrocławski"
+  ],
+  "Tucholski": [
+    "Bydgoski",
+    "Chojnicki",
+    "Sępoleński",
+    "Starogardzki",
+    "Świecki"
+  ],
+  "Turecki": [
+    "Kaliski",
+    "Kolski",
+    "Koniński",
+    "Poddębicki",
+    "Sieradzki"
+  ],
+  "Tychy": [
+    "Bieruńsko-Lędziński",
+    "Katowice",
+    "Mikołowski",
+    "Pszczyński"
+  ],
+  "Wadowicki": [
+    "Bielski (Śląskie)",
+    "Chrzanowski",
+    "Krakowski",
+    "Myślenicki",
+    "Oświęcimski",
+    "Suski",
+    "Żywiecki"
+  ],
+  "Wałbrzych": [
+    "Świdnicki (Dolnośląskie)",
+    "Wałbrzyski"
+  ],
+  "Wałbrzyski": [
+    "Dzierżoniowski",
+    "Jaworski",
+    "Kamiennogórski",
+    "Kłodzki",
+    "Świdnicki (Dolnośląskie)",
+    "Wałbrzych"
+  ],
+  "Wałecki": [
+    "Choszczeński",
+    "Czarnkowsko-Trzcianecki",
+    "Drawski",
+    "Pilski",
+    "Strzelecko-Drezdenecki",
+    "Złotowski"
+  ],
+  "Warszawa": [
+    "Legionowski",
+    "Miński",
+    "Otwocki",
+    "Piaseczyński",
+    "Pruszkowski",
+    "Warszawski Zachodni",
+    "Wołomiński"
+  ],
+  "Warszawski Zachodni": [
+    "Grodziski (Mazowieckie)",
+    "Legionowski",
+    "Nowodworski (Mazowieckie)",
+    "Pruszkowski",
+    "Sochaczewski",
+    "Warszawa"
+  ],
+  "Wąbrzeski": [
+    "Brodnicki",
+    "Chełmiński",
+    "Golubsko-Dobrzyński",
+    "Grudziądzki",
+    "Toruński"
+  ],
+  "Wągrowiecki": [
+    "Chodzieski",
+    "Gnieźnieński",
+    "Nakielski",
+    "Obornicki",
+    "Pilski",
+    "Poznański",
+    "Żniński"
+  ],
+  "Wejherowski": [
+    "Gdynia",
+    "Kartuski",
+    "Lęborski",
+    "Pucki"
+  ],
+  "Węgorzewski": [
+    "Giżycki",
+    "Gołdapski",
+    "Kętrzyński"
+  ],
+  "Węgrowski": [
+    "Miński",
+    "Ostrowski (Mazowieckie)",
+    "Siedlecki",
+    "Sokołowski",
+    "Wołomiński",
+    "Wyszkowski"
+  ],
+  "Wielicki": [
+    "Bocheński",
+    "Krakowski",
+    "Kraków",
+    "Myślenicki"
+  ],
+  "Wieluński": [
+    "Bełchatowski",
+    "Kłobucki",
+    "Łaski",
+    "Oleski",
+    "Pajęczański",
+    "Sieradzki",
+    "Wieruszowski"
+  ],
+  "Wieruszowski": [
+    "Kępiński",
+    "Kluczborski",
+    "Oleski",
+    "Ostrzeszowski",
+    "Sieradzki",
+    "Wieluński"
+  ],
+  "Włocławek": [
+    "Lipnowski",
+    "Włocławski"
+  ],
+  "Włocławski": [
+    "Aleksandrowski",
+    "Gostyniński",
+    "Kolski",
+    "Kutnowski",
+    "Lipnowski",
+    "Płocki",
+    "Radziejowski",
+    "Włocławek"
+  ],
+  "Włodawski": [
+    "Bialski",
+    "Chełmski",
+    "Łęczyński",
+    "Parczewski"
+  ],
+  "Włoszczowski": [
+    "Częstochowski",
+    "Jędrzejowski",
+    "Kielecki",
+    "Konecki",
+    "Radomszczański",
+    "Zawierciański"
+  ],
+  "Wodzisławski": [
+    "Jastrzębie-Zdrój",
+    "Raciborski",
+    "Rybnicki",
+    "Rybnik"
+  ],
+  "Wolsztyński": [
+    "Grodziski (Wielkopolskie)",
+    "Kościański",
+    "Leszczyński",
+    "Nowosolski",
+    "Nowotomyski",
+    "Wschowski",
+    "Zielonogórski"
+  ],
+  "Wołomiński": [
+    "Legionowski",
+    "Miński",
+    "Warszawa",
+    "Węgrowski",
+    "Wyszkowski"
+  ],
+  "Wołowski": [
+    "Górowski",
+    "Legnicki",
+    "Lubiński",
+    "Średzki (Dolnośląskie)",
+    "Trzebnicki"
+  ],
+  "Wrocław": [
+    "Średzki (Dolnośląskie)",
+    "Trzebnicki",
+    "Wrocławski"
+  ],
+  "Wrocławski": [
+    "Dzierżoniowski",
+    "Oleśnicki",
+    "Oławski",
+    "Strzeliński",
+    "Średzki (Dolnośląskie)",
+    "Świdnicki (Dolnośląskie)",
+    "Trzebnicki",
+    "Wrocław"
+  ],
+  "Wrzesiński": [
+    "Gnieźnieński",
+    "Jarociński",
+    "Pleszewski",
+    "Poznański",
+    "Słupecki",
+    "Średzki (Wielkopolskie)"
+  ],
+  "Wschowski": [
+    "Głogowski",
+    "Górowski",
+    "Leszczyński",
+    "Nowosolski",
+    "Wolsztyński"
+  ],
+  "Wysokomazowiecki": [
+    "Białostocki",
+    "Bielski (Podlaskie)",
+    "Ostrowski (Mazowieckie)",
+    "Siemiatycki",
+    "Sokołowski",
+    "Zambrowski"
+  ],
+  "Wyszkowski": [
+    "Legionowski",
+    "Makowski",
+    "Ostrołęcki",
+    "Ostrowski (Mazowieckie)",
+    "Pułtuski",
+    "Węgrowski",
+    "Wołomiński"
+  ],
+  "Zabrze": [
+    "Bytom",
+    "Gliwice",
+    "Gliwicki",
+    "Ruda Śląska",
+    "Tarnogórski"
+  ],
+  "Zambrowski": [
+    "Białostocki",
+    "Łomżyński",
+    "Ostrowski (Mazowieckie)",
+    "Wysokomazowiecki"
+  ],
+  "Zamojski": [
+    "Biłgorajski",
+    "Chełmski",
+    "Hrubieszowski",
+    "Krasnostawski",
+    "Tomaszowski (Lubelskie)",
+    "Zamość"
+  ],
+  "Zamość": [
+    "Zamojski"
+  ],
+  "Zawierciański": [
+    "Będziński",
+    "Częstochowski",
+    "Dąbrowa Górnicza",
+    "Jędrzejowski",
+    "Miechowski",
+    "Myszkowski",
+    "Olkuski",
+    "Włoszczowski"
+  ],
+  "Ząbkowicki": [
+    "Dzierżoniowski",
+    "Kłodzki",
+    "Nyski",
+    "Strzeliński"
+  ],
+  "Zduńskowolski": [
+    "Łaski",
+    "Poddębicki",
+    "Sieradzki"
+  ],
+  "Zgierski": [
+    "Brzeziński",
+    "Łęczycki",
+    "Łowicki",
+    "Łódzki Wschodni",
+    "Łódź",
+    "Pabianicki",
+    "Poddębicki"
+  ],
+  "Zgorzelecki": [
+    "Bolesławiecki",
+    "Lubański",
+    "Żagański",
+    "Żarski"
+  ],
+  "Zielona Góra": [
+    "Nowosolski",
+    "Zielonogórski"
+  ],
+  "Zielonogórski": [
+    "Krośnieński (Lubuskie)",
+    "Nowosolski",
+    "Nowotomyski",
+    "Świebodziński",
+    "Wolsztyński",
+    "Zielona Góra",
+    "Żagański",
+    "Żarski"
+  ],
+  "Złotoryjski": [
+    "Bolesławiecki",
+    "Jaworski",
+    "Karkonoski",
+    "Legnicki",
+    "Lwówecki"
+  ],
+  "Złotowski": [
+    "Człuchowski",
+    "Drawski",
+    "Pilski",
+    "Sępoleński",
+    "Szczecinecki",
+    "Wałecki"
+  ],
+  "Zwoleński": [
+    "Kozienicki",
+    "Lipski",
+    "Opolski (Lubelskie)",
+    "Puławski",
+    "Radomski"
+  ],
+  "Żagański": [
+    "Bolesławiecki",
+    "Głogowski",
+    "Nowosolski",
+    "Polkowicki",
+    "Zgorzelecki",
+    "Zielonogórski",
+    "Żarski"
+  ],
+  "Żarski": [
+    "Krośnieński (Lubuskie)",
+    "Zgorzelecki",
+    "Zielonogórski",
+    "Żagański"
+  ],
+  "Żniński": [
+    "Bydgoski",
+    "Gnieźnieński",
+    "Inowrocławski",
+    "Mogileński",
+    "Nakielski",
+    "Wągrowiecki"
+  ],
+  "Żory": [
+    "Jastrzębie-Zdrój",
+    "Rybnik"
+  ],
+  "Żuromiński": [
+    "Brodnicki",
+    "Działdowski",
+    "Mławski",
+    "Płoński",
+    "Rypiński",
+    "Sierpecki"
+  ],
+  "Żyrardowski": [
+    "Grodziski (Mazowieckie)",
+    "Grójecki",
+    "Rawski",
+    "Skierniewicki",
+    "Sochaczewski"
+  ],
+  "Żywiecki": [
+    "Bielski (Śląskie)",
+    "Cieszyński",
+    "Suski",
+    "Wadowicki"
+  ]
+}
