@@ -1223,7 +1223,8 @@
     "Katowice",
     "Pszczyński",
     "Ruda Śląska",
-    "Tychy"
+    "Tychy",
+    "Żory"
   ],
   "Milicki": [
     "Krotoszyński",
@@ -1769,7 +1770,8 @@
     "Jastrzębie-Zdrój",
     "Mikołowski",
     "Oświęcimski",
-    "Tychy"
+    "Tychy",
+    "Żory"
   ],
   "Pucki": [
     "Gdynia",
@@ -1873,7 +1875,8 @@
     "Jastrzębie-Zdrój",
     "Raciborski",
     "Rybnik",
-    "Wodzisławski"
+    "Wodzisławski",
+    "Żory"
   ],
   "Rybnik": [
     "Gliwicki",
@@ -2521,7 +2524,8 @@
     "Jastrzębie-Zdrój",
     "Raciborski",
     "Rybnicki",
-    "Rybnik"
+    "Rybnik",
+    "Żory"
   ],
   "Wolsztyński": [
     "Grodziski (Wielkopolskie)",
@@ -2714,7 +2718,11 @@
   ],
   "Żory": [
     "Jastrzębie-Zdrój",
-    "Rybnik"
+    "Mikołowski",
+    "Pszczyński",
+    "Rybnicki",
+    "Rybnik",
+    "Wodzisławski"
   ],
   "Żuromiński": [
     "Brodnicki",
